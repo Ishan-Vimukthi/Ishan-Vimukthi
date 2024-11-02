@@ -25,7 +25,9 @@ I am an Undergraduate IT Student | Aspiring Web Developer | 3D Character Modeler
 
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-Vimukthi&layout=compact&theme=dark)
+
 
 ---
 
