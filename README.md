@@ -13,12 +13,6 @@ I am an Undergraduate IT Student | Aspiring Web Developer | 3D Character Modeler
 
 ## Ishan Vimukthi's GitHub Stats
 
-- **Total Stars Earned:** 0 <!-- Update as needed -->
-- **Total Commits (2024):** 0 <!-- Update as needed -->
-- **Total PRs:** 0 <!-- Update as needed -->
-- **Total Issues:** 0 <!-- Update as needed -->
-- **Contributed to (last year):** 0 <!-- Update as needed -->
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishan-Vimukthi&show_icons=true&theme=dark)
 
 
