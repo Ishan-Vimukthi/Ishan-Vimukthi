@@ -19,7 +19,8 @@ I am an Undergraduate IT Student | Aspiring Web Developer | 3D Character Modeler
 - **Total Issues:** 0 <!-- Update as needed -->
 - **Contributed to (last year):** 0 <!-- Update as needed -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishan-Vimukthi&show_icons=true&theme=dark)
+
 
 
 
