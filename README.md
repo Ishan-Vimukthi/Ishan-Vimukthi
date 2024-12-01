@@ -7,7 +7,8 @@ I am an Undergraduate IT Student | Aspiring Web Developer | 3D Character Modeler
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([your-linkedin-link](https://www.linkedin.com/in/ishan-vimukthi-b48462218/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)]([https://github.com/your-github-username](https://github.com/Ishan-Vimukthi?tab=overview&from=2023-09-01&to=2023-09-07))
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)]([https://leetcode.com/IshanVimukthi/](https://leetcode.com/u/Ishan-Vimukthi/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)]([https://leetcode.com/your-leetcode-username/](https://leetcode.com/u/Ishan-Vimukthi/))
+
 
 
 
