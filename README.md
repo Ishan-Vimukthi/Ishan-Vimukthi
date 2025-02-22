@@ -2,7 +2,7 @@
 
 # Hello there! I'm Ishan Vimukthi
 
-I am an Undergraduate IT Student | Aspiring Web Developer | 3D Character Modeler and Animator
+I am an Undergraduate IT Student | Aspiring Full Stack Developer | 3D Character Modeler and Animator
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([your-linkedin-link](https://www.linkedin.com/in/ishan-vimukthi-b48462218/))
